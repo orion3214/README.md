@@ -23,7 +23,7 @@
 
 ## 🎮 Hacker XP & Level
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=orion3214&theme=react-dark&hide_border=true)
 
 
 ## 🌐 Connect with Me
