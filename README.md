@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [orion]  
+# Hi there 👋, I'm orion
 
 ![Hacker GIF](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
