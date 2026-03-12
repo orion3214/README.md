@@ -27,6 +27,6 @@
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_HANDLE)  
-[![CTF Profile](https://img.shields.io/badge/CTF-Writeups-orange?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/ctf-writeups)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/88888888)  
+[![Twitter](https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/88888888)  
+[![CTF Profile](https://img.shields.io/badge/CTF-Writeups-orange?style=for-the-badge&logo=github)](https://github.com/88888888/ctf-writeups)
